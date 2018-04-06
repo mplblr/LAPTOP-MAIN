@@ -1,0 +1,265 @@
+9/10/2015 5:24:11 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:24:54 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:25:36 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:26:18 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:27:00 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:27:22 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:27:22 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:27:42 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:28:24 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:29:06 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:29:48 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:30:30 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:30:53 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:30:53 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:31:00 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:31:00 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:31:12 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:31:46 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:31:46 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:31:55 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:32:37 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:33:19 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:34:01 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:34:43 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:35:25 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:36:07 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:36:42 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:36:42 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:36:49 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:37:58 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:37:58 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:38:02 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:38:02 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:38:18 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:38:18 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:38:58 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:38:58 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:39:04 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:39:04 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:39:22 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:39:22 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:39:32 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:39:32 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:39:39 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:39:39 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:42:38 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:42:38 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:43:08 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:43:08 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:43:15 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:43:15 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:43:18 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/10/2015 5:43:18 PM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+

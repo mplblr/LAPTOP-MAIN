@@ -1,0 +1,140 @@
+9/11/2015 11:23:16 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:23:16 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:24:50 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:24:50 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:24:58 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:24:58 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:25:12 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:25:12 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:25:48 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:25:48 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:27:32 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:27:32 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:27:45 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:27:45 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:28:59 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:28:59 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:29:34 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:29:34 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:29:52 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:29:52 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:30:00 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:30:00 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:30:24 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:30:24 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:31:30 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:31:30 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:31:49 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+
+9/11/2015 11:31:49 AM--Error Message : The ConnectionString property has not been initialized.
+------------------Error Source : ITCCORE
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadConfig() in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS Versions\A1-NonFailover\B3-DiscountsOnlyHSIA\Applications\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 21
+

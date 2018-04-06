@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ITCUI", "ITCUI\ITCUI.vbproj", "{DA3F2B6F-3DBC-49CA-9375-D6CC23D71DB2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{289A1D39-A81B-42EB-8482-CDBBFCCDEC39} = {289A1D39-A81B-42EB-8482-CDBBFCCDEC39}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ITCCORE", "ITCCORE\ITCCORE.vbproj", "{289A1D39-A81B-42EB-8482-CDBBFCCDEC39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3F2B6F-3DBC-49CA-9375-D6CC23D71DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3F2B6F-3DBC-49CA-9375-D6CC23D71DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3F2B6F-3DBC-49CA-9375-D6CC23D71DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3F2B6F-3DBC-49CA-9375-D6CC23D71DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289A1D39-A81B-42EB-8482-CDBBFCCDEC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289A1D39-A81B-42EB-8482-CDBBFCCDEC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289A1D39-A81B-42EB-8482-CDBBFCCDEC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289A1D39-A81B-42EB-8482-CDBBFCCDEC39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

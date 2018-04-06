@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA3F2B6F-3DBC-49CA-9375-D6CC23D71DB2}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ITCUI</RootNamespace>
+    <AssemblyName>ITCUI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ITCUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ITCUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="App_Code, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="App_Web_ijom0bcb, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="App_Web_jczbyrcj, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="App_Web_krshv2so, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Interop.MSXML, Version=2.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ITCSHERATON\ITC_ADV2\bin\Interop.MSXML.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSXML2, Version=6.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ITCSHERATON\ITC_ADV2\bin\Interop.MSXML2.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=227c66cf5503649a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\PageOptimiser\PageOptimiser\lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsense.Mobile, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Microsense.Mobile.dll</HintPath>
+    </Reference>
+    <Reference Include="security, Version=1.0.2525.24371, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\adyar\security.dll</HintPath>
+    </Reference>
+    <Reference Include="subscriberlogin, Version=1.0.3798.23385, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\IMPORTANT FILES FOR DEPLOYMENT\subscriberlogin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FAQ.aspx.designer.vb">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FAQ.aspx.vb">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="forgotpwd.aspx.designer.vb">
+      <DependentUpon>forgotpwd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="forgotpwd.aspx.vb">
+      <DependentUpon>forgotpwd.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="IdentifyLogin.aspx.designer.vb">
+      <DependentUpon>IdentifyLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IdentifyLogin.aspx.vb">
+      <DependentUpon>IdentifyLogin.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.vb">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Index.aspx.vb">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Instruction.aspx.designer.vb">
+      <DependentUpon>Instruction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Instruction.aspx.vb">
+      <DependentUpon>Instruction.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="itcdiscount.aspx.designer.vb">
+      <DependentUpon>itcdiscount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="itcdiscount.aspx.vb">
+      <DependentUpon>itcdiscount.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ITCWelcome.aspx.designer.vb">
+      <DependentUpon>ITCWelcome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ITCWelcome.aspx.vb">
+      <DependentUpon>ITCWelcome.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="itc_alert.aspx.designer.vb">
+      <DependentUpon>itc_alert.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="itc_alert.aspx.vb">
+      <DependentUpon>itc_alert.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="logged_guest1.aspx.designer.vb">
+      <DependentUpon>logged_guest1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="logged_guest1.aspx.vb">
+      <DependentUpon>logged_guest1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.vb">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.vb">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="msg_info1.aspx.designer.vb">
+      <DependentUpon>msg_info1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="msg_info1.aspx.vb">
+      <DependentUpon>msg_info1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="password.aspx.designer.vb">
+      <DependentUpon>password.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="password.aspx.vb">
+      <DependentUpon>password.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="password_reset.aspx.designer.vb">
+      <DependentUpon>password_reset.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="password_reset.aspx.vb">
+      <DependentUpon>password_reset.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SHMaster.Master.designer.vb">
+      <DependentUpon>SHMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SHMaster.Master.vb">
+      <DependentUpon>SHMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TermsCond.aspx.designer.vb">
+      <DependentUpon>TermsCond.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TermsCond.aspx.vb">
+      <DependentUpon>TermsCond.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="usererror.aspx.designer.vb">
+      <DependentUpon>usererror.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="usererror.aspx.vb">
+      <DependentUpon>usererror.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\ITCUI.Resources.resources" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fonts\aller_rg-webfont.eot" />
+    <None Include="fonts\aller_rg-webfont.svg" />
+    <None Include="fonts\aller_rg-webfont.ttf" />
+    <None Include="fonts\aller_rg-webfont.woff" />
+    <None Include="images\Thumbs.db" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="obj\Debug\ITCSHERATONNEW8SEP.vbproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\ITCUI.vbproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\ResolveAssemblyReference.cache" />
+    <Content Include="bin\ActiveUtil.dll" />
+    <Content Include="bin\ClassLibrary1.dll" />
+    <Content Include="bin\ClassLibrary1.pdb" />
+    <Content Include="bin\Config.xml" />
+    <Content Include="bin\Interop.MSXML.dll" />
+    <Content Include="bin\Interop.MSXML2.dll" />
+    <Content Include="bin\ITCCORE.dll" />
+    <Content Include="bin\ITCCORE.pdb" />
+    <Content Include="bin\ITCCORE.xml" />
+    <Content Include="bin\ITCUI.dll" />
+    <Content Include="bin\ITCUI.pdb" />
+    <Content Include="bin\ITCUI.xml" />
+    <Content Include="bin\log4net.dll" />
+    <Content Include="bin\security.dll" />
+    <Content Include="bin\subscriberlogin.dll" />
+    <Content Include="fancybox\blank.gif" />
+    <Content Include="fancybox\fancybox-x.png" />
+    <Content Include="fancybox\fancybox-y.png" />
+    <Content Include="fancybox\fancybox.png" />
+    <Content Include="fancybox\fancy_close.png" />
+    <Content Include="fancybox\fancy_loading.png" />
+    <Content Include="fancybox\fancy_nav_left.png" />
+    <Content Include="fancybox\fancy_nav_right.png" />
+    <Content Include="fancybox\fancy_shadow_e.png" />
+    <Content Include="fancybox\fancy_shadow_n.png" />
+    <Content Include="fancybox\fancy_shadow_ne.png" />
+    <Content Include="fancybox\fancy_shadow_nw.png" />
+    <Content Include="fancybox\fancy_shadow_s.png" />
+    <Content Include="fancybox\fancy_shadow_se.png" />
+    <Content Include="fancybox\fancy_shadow_sw.png" />
+    <Content Include="fancybox\fancy_shadow_w.png" />
+    <Content Include="fancybox\fancy_title_left.png" />
+    <Content Include="fancybox\fancy_title_main.png" />
+    <Content Include="fancybox\fancy_title_over.png" />
+    <Content Include="fancybox\fancy_title_right.png" />
+    <Content Include="fancybox\jquery-1.4.2.min.js" />
+    <Content Include="fancybox\jquery.blockUI.js" />
+    <Content Include="fancybox\jquery.easing-1.3.pack.js" />
+    <Content Include="fancybox\jquery.fancybox-1.3.1.css" />
+    <Content Include="fancybox\jquery.fancybox-1.3.1.js" />
+    <Content Include="fancybox\jquery.fancybox-1.3.1.pack.js" />
+    <Content Include="fancybox\jquery.mousewheel-3.0.2.pack.js" />
+    <Content Include="FAQ.aspx" />
+    <Content Include="fonts\demo.html" />
+    <Content Include="fonts\fonts.css" />
+    <Content Include="forgotpwd.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="IdentifyLogin.aspx" />
+    <Content Include="images\arrow1.gif" />
+    <Content Include="images\arrow2.png" />
+    <Content Include="images\bain_co.gif" />
+    <Content Include="images\bg_note.jpg" />
+    <Content Include="images\box1_left.png" />
+    <Content Include="images\box1_right.png" />
+    <Content Include="images\box_left1.jpg" />
+    <Content Include="images\box_left_middle.jpg" />
+    <Content Include="images\box_right.jpg" />
+    <Content Include="images\box_right_middle.jpg" />
+    <Content Include="images\btn_bg.gif" />
+    <Content Include="images\bubble_bg.jpg" />
+    <Content Include="images\bubble_bg2.gif" />
+    <Content Include="images\bubble_bg2.png" />
+    <Content Include="images\call_icon.png" />
+    <Content Include="images\chrome.png" />
+    <Content Include="images\chrome_toolsmenu.gif" />
+    <Content Include="images\conference_btn.gif" />
+    <Content Include="images\conference_login.png" />
+    <Content Include="images\container_bg.jpg" />
+    <Content Include="images\corner.png" />
+    <Content Include="images\dail_left_bg.jpg" />
+    <Content Include="images\dail_left_bg1.jpg" />
+    <Content Include="images\dail_right_bg.jpg" />
+    <Content Include="images\divider.png" />
+    <Content Include="images\divider2.png" />
+    <Content Include="images\down_arrow1.png" />
+    <Content Include="images\enable_js_bg.jpg" />
+    <Content Include="images\enable_js_strip1jpg.gif" />
+    <Content Include="images\enable_js_strip2.gif" />
+    <Content Include="images\error_ico.png" />
+    <Content Include="images\favi.ico" />
+    <Content Include="images\feed_bg.jpg" />
+    <Content Include="images\footer.jpg" />
+    <Content Include="images\footer.png" />
+    <Content Include="images\footer_logo.gif" />
+    <Content Include="images\footer_logo.png" />
+    <Content Include="images\free_sites.png" />
+    <Content Include="images\free_site_bg.jpg" />
+    <Content Include="images\header_bg.jpg" />
+    <Content Include="images\hsia_banner.png" />
+    <Content Include="images\ie6nomore-chrome.jpg" />
+    <Content Include="images\ie6nomore-cornerx.jpg" />
+    <Content Include="images\ie6nomore-firefox.jpg" />
+    <Content Include="images\ie6nomore-ie8.jpg" />
+    <Content Include="images\ie6nomore-safari.jpg" />
+    <Content Include="images\ie6nomore-warning.jpg" />
+    <Content Include="images\ie_icon.png" />
+    <Content Include="images\left_arrow1.png" />
+    <Content Include="images\link_arrow.png" />
+    <Content Include="images\login.png" />
+    <Content Include="images\logo.jpg" />
+    <Content Include="images\minus.gif" />
+    <Content Include="images\morz_icon.png" />
+    <Content Include="images\night_bg1.jpg" />
+    <Content Include="images\night_bg2.jpg" />
+    <Content Include="images\opera_icon.png" />
+    <Content Include="images\please_wait.gif" />
+    <Content Include="images\plus.gif" />
+    <Content Include="images\print_icon.png" />
+    <Content Include="images\print_icon_h.png" />
+    <Content Include="images\purchase_bg.png" />
+    <Content Include="images\purchase_btn_fade.png" />
+    <Content Include="images\question_icon.png" />
+    <Content Include="images\question_icon_h.png" />
+    <Content Include="images\safari_icon.png" />
+    <Content Include="images\spacer.gif" />
+    <Content Include="images\table_bg.jpg" />
+    <Content Include="images\terms_anim1.gif" />
+    <Content Include="images\terms_bg.gif" />
+    <Content Include="images\title_bar_bg.jpg" />
+    <Content Include="images\title_bar_bg_bottom.png" />
+    <Content Include="images\title_bar_bg_right.gif" />
+    <Content Include="images\title_bar_bg_right.png" />
+    <Content Include="images\upgrade_icon.png" />
+    <Content Include="images\upgrade_icon_h.png" />
+    <Content Include="images\up_arrow1.png" />
+    <Content Include="images\welcome_txt.jpg" />
+    <Content Include="images\x.gif" />
+    <Content Include="Index.aspx" />
+    <Content Include="Instruction.aspx" />
+    <Content Include="itcdiscount.aspx" />
+    <Content Include="ITCWelcome.aspx" />
+    <Content Include="itc_alert.aspx" />
+    <Content Include="js\cufon-yui.js" />
+    <Content Include="js\ddaccordion.js" />
+    <Content Include="js\DD_roundies.uicornerfix.js" />
+    <Content Include="js\DD_roundies_0.0.2a.js" />
+    <Content Include="js\jquery-1.4.2.min.js" />
+    <Content Include="js\jquery.boxshadow.js" />
+    <Content Include="js\jquery.corner.js" />
+    <Content Include="js\jquery.corners.min.js" />
+    <Content Include="js\Layout.js" />
+    <Content Include="js\Myriad_Pro_600.font.js" />
+    <Content Include="js\script.js" />
+    <Content Include="js\supersleight.plugin.js" />
+    <Content Include="js\tooltip.js" />
+    <Content Include="js\Verdana_400.font.js" />
+    <Content Include="logged_guest1.aspx" />
+    <Content Include="login.aspx" />
+    <Content Include="msg_info1.aspx" />
+    <Content Include="obj\Debug\ITCSHERATONNEW8SEP.vbproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\ITCUI.dll" />
+    <Content Include="obj\Debug\ITCUI.pdb" />
+    <Content Include="obj\Debug\ITCUI.vbproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\ITCUI.xml" />
+    <Content Include="obj\Debug\TempPE\My Project.Resources.Designer.vb.dll" />
+    <Content Include="PageScript\Instruction.js" />
+    <Content Include="PageScript\ITCWelcome.js" />
+    <Content Include="password.aspx" />
+    <Content Include="password_reset.aspx" />
+    <Content Include="png_fix.css" />
+    <Content Include="SHMaster.Master" />
+    <Content Include="site.css" />
+    <Content Include="Template.htm" />
+    <Content Include="TermsCond.aspx" />
+    <Content Include="EnableJS.html" />
+    <Content Include="tooltip.css" />
+    <Content Include="usererror.aspx" />
+    <Content Include="XmlPostpage.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ITCCORE\ITCCORE.vbproj">
+      <Project>{289A1D39-A81B-42EB-8482-CDBBFCCDEC39}</Project>
+      <Name>ITCCORE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="log\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1200</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

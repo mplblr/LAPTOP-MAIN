@@ -1,0 +1,278 @@
+<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SHMaster.master.vb"
+    Inherits="ITCUI.SHMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head id="Head1" runat="server">
+
+    <title>ITC Hotels</title>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    
+    <link href="site.css" rel="stylesheet" type="text/css" media="screen" />
+    
+    <link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox-1.3.1.css" media="screen" />
+    
+    <link href="fonts/fonts.css" rel="stylesheet" type="text/css" />
+    <!--[if lte IE 6]>
+        <link rel="stylesheet" type="text/css" href="png_fix.css" />        			
+      <![endif]-->
+    <!--[if lt IE 7]>
+    <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 86px; position: relative;'>
+        <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='images/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>
+        <div style='width: 640px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>
+            <div style='width: 75px; float: left;'><img src='images/ie6nomore-warning.jpg' alt='Warning!'/></div>
+            <div style='width: 275px; float: left; font-family: Arial, sans-serif;'>
+                <div style='font-size: 14px; font-weight: bold; margin-top: 12px;'>You are using an outdated browser</div>
+                <div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>For a better experience using this site, please upgrade to a modern web browser.<br /><br /><strong>kindly contact Assistance</strong></div>
+            </div> 
+            <div style='width: 75px; float: left;'><img src='images/ie6nomore-firefox.jpg' style='border: none;' alt=''/></div>
+            <div style='width: 75px; float: left;'><img src='images/ie6nomore-ie8.jpg' style='border: none;' alt=''/></div>
+            <div style='width: 73px; float: left;'><img src='images/ie6nomore-safari.jpg' style='border: none;' alt=''/></div>
+            <div style='float: left;'><img src='images/ie6nomore-chrome.jpg' style='border: none;' alt=''/></div>
+        </div>
+    </div>
+    <![endif]-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <noscript>
+        <meta http-equiv="Refresh" content="0;url=EnableJS.html" />
+    </noscript>
+    <form id="MasterForm" runat="server">
+    <div id="main_wrapper">
+        <!-- HEADER -->
+        <div id="header">
+            <div class="logo">
+                <img src="images/logo.jpg" alt="" />
+            </div>
+            <div class="pattern_right">
+                <img id="welcometext" src="images/welcome_txt.jpg" alt="" />
+            </div>
+            <div class="dial">
+                <img src="images/call_icon.png" alt="" width="20" height="22" />
+                <h1>
+                    Dial 6 for WelcomAssistance
+                </h1>
+                <span class="dial_right">
+                    <img src="images/dail_right_bg.jpg" alt="" /></span>
+            </div>
+        </div>
+        <!-- LEFT NAVIGATION -->
+        <div id="left_navigation">
+            <div id="top">
+                <span></span>
+            </div>
+            <div class="center-content">
+                <ul class="cufonReplace">
+                    <li>
+                        <img src="images/question_icon.png" alt="" id="faq1" width="23" height="35" />
+                        <a id="LiFaqLink" runat="server" href="faq.aspx" target="_blank" title="FAQ">FAQ</a>
+                    </li>                        
+                    <li>
+                        <img src="images/print_icon.png" alt="" id="Print1" width="23" height="35" />
+                        <a id="LiPrintLink" runat="server" href="#" target="_blank" title="Print Service">Print Service</a>
+                    </li>
+                </ul>
+                
+                <div id="free_site">
+                    <span class="header1">
+                        <img src="images/free_sites.png" alt="" /></span>
+                    <ul>
+                        <li><a href="http://www.itchotels.in" class="sites" target="_blank">ITC Hotels</a></li>
+                        <li><a href="http://www.welcomzestlounge.in" class="sites" target="_blank">WelcomZest Lounge</a></li>
+                        <li><a href="http://www.itcportal.com" class="sites" target="_blank">ITC Portal</a></li>
+                        <li><a href="http://www.starwoodhotels.com" class="sites" target="_blank">Starwood Hotels</a></li>                        
+                    </ul>
+                </div>
+            </div>
+        </div>        
+        <div id="container_right">
+            <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        
+        <!-- FOOTER STARTS -->
+        <div id="footer" class="footer">            
+            <a id="terms" href="TermsCond.aspx"> Terms & Conditions</a>
+            <img src="images/footer_logo.png" alt="" id="footer_logo" />
+        </div>
+        <!-- FOOTER ENDS -->
+        <div style="clear: both;">
+        </div>
+    </div>
+    <!--main_wrapper-->
+
+    <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+    
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var DisableBackButton = function() {
+                window.history.forward()
+            };
+            DisableBackButton();
+            window.onload = DisableBackButton;
+            window.onpageshow = function(e) { if (e.persisted) DisableBackButton() };
+            window.onunload = function() { void (0) };
+        });        
+    </script>
+    
+    
+    <script type="text/javascript">
+        $(function() {
+            if ($.browser.msie && $.browser.version == "6.0") {
+                $("#footer").removeClass('footer');
+                $("#footer").addClass('footer_IE6');
+            }
+        });
+    </script>
+
+   <%-- <script type="text/javascript">
+        $(function() {
+            jQuery(function() {
+                jQuery.support.borderRadius = false;
+                jQuery.each(['BorderRadius', 'MozBorderRadius', 'WebkitBorderRadius', 'OBorderRadius', 'KhtmlBorderRadius'], function() {
+                    if (document.body.style[this] !== undefined) jQuery.support.borderRadius = true;
+                    return (!jQuery.support.borderRadius);
+                });
+            });
+            $(function() {
+                if (!$.support.borderRadius) {
+                    $('.button').each(function() {
+                        $(this).wrap('<div class="buttonwrap"></div>')
+                        .before('<div class="corner tl"></div><div class="corner tr"></div>')
+                        .after('<div class="corner bl"></div><div class="corner br"></div>');
+                    });
+                }
+            });
+
+        });
+      
+    </script>--%>
+
+    <!--[if lte IE 6]>        
+        <script type="text/javascript" src="js/supersleight.plugin.js"></script>
+				<script type="text/javascript">
+					$(document).ready(function() {
+					$('#footer,.bubble_bg,.tl,.tr, .center-content ul li img').supersleight();
+					$('.corner').supersleight();
+					 });
+				</script>					
+      <![endif]-->
+
+    <script src="js/Layout.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function() {
+            fixFrame();
+        });
+
+        $(window).resize(function() {
+            resizeFrame();
+        });
+    </script>
+
+    <script src="js/cufon-yui.js" type="text/javascript"></script>
+    <script src="js/Myriad_Pro_600.font.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        Cufon.replace('.dial h1', { fontFamily: 'Myriad Pro', "font-weight": 400 });
+        Cufon.replace('.cufonReplace a', { fontFamily: 'Myriad Pro' });
+        Cufon.replace('.upgrade_note', { fontFamily: 'Myriad Pro' });
+    </script>
+
+    <script type="text/javascript" src="js/DD_roundies_0.0.2a.js"></script>
+
+    <script type="text/javascript">
+        DD_roundies.addRule("#container_right", "8px", true);
+        DD_roundies.addRule(".access_code", "8px", true);
+        DD_roundies.addRule(".upgrade_note", "8px", true);  
+    </script>    
+
+    <script type="text/javascript">
+        $("document").ready(function() {
+
+            $("a[id$=LiFaqLink]").hover(function() {
+                $("#faq1").attr("src", "images/question_icon_h.png");
+            },
+                function() {
+                    $("#faq1").attr("src", "images/question_icon.png");
+                }
+            );
+
+
+            $("a[id$=LiPrintLink]").hover(function() {
+                $("#Print1").attr("src", "images/print_icon_h.png");
+            },
+                function() {
+                    $("#Print1").attr("src", "images/print_icon.png");
+                }
+            );
+
+            $(".button").hover(function() {
+                $(this).css({ "background-position": "left -25px" });
+            },
+                function() {
+                    $(this).css({ "background-position": "left top" });
+                }
+            );
+
+            Cufon.replace('a.sites', { fontFamily: 'Myriad Pro' });
+
+            $(".sites").hover(function() {
+                $(this).parent().addClass("CufonHover");
+            },
+            function() {
+                $(this).parent().removeClass("CufonHover");
+            });
+        });
+
+    </script>    
+    
+    <asp:ContentPlaceHolder ID="ScriptContentPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>   
+    
+    
+    <script type="text/javascript" src="fancybox/jquery.fancybox-1.3.1.js"></script>
+    <script type="text/javascript" src="fancybox/jquery.easing-1.3.pack.js"></script>    
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("a[id$=LiFaqLink]").fancybox({
+                'width': 600,
+                'height': 450,
+                'autoScale': true,
+                'transitionIn': 'elastic',
+                'transitionOut': 'elastic',
+                'overlayOpacity': 0.6,
+                'type': 'iframe'
+            });
+
+            $("a[id$=LiPrintLink]").fancybox({
+                'width': 680,
+                'height': 500,
+                'autoScale': true,
+                'transitionIn': 'elastic',
+                'transitionOut': 'elastic',
+                'overlayOpacity': 0.6,
+                'type': 'iframe'
+            });
+
+            $("a[id$=terms]").fancybox({
+                'width': 680,
+                'height': 500,
+                'autoScale': true,
+                'transitionIn': 'elastic',
+                'transitionOut': 'elastic',
+                'overlayOpacity': 0.6,
+                'type': 'iframe'
+            });
+            
+        });
+    </script>
+
+</form>
+</body>
+
+</html>

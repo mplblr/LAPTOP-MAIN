@@ -1,0 +1,30 @@
+3/25/2017 12:20:00 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadGeneralConfig() in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 61
+
+3/25/2017 12:20:00 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadNASConfig(String nseid) in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 101
+
+3/25/2017 12:33:09 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadGeneralConfig() in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 61
+
+3/25/2017 12:33:09 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadNASConfig(String nseid) in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 101
+
+3/25/2017 12:33:36 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadGeneralConfig() in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 61
+
+3/25/2017 12:33:36 PM--Error Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+------------------Error Source : .Net SqlClient Data Provider
+------------------Error StackTrace :    at ITCCORE.Microsense.CodeBase.DatabaseUtil.ExecuteSelect(DbCommand selectCommand) in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\DatabaseUtil.vb:line 86
+   at ITCCORE.CSysConfig.LoadNASConfig(String nseid) in E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\CSysConfig.vb:line 101
+

@@ -1,0 +1,46 @@
+D:\adyar\Latest_projects\ITC-projects_subhadeep_handover\ITC-projects_subhadeep_handover\ITC\JUNE-2015\FO\Grand chola\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.dll
+D:\adyar\Latest_projects\ITC-projects_subhadeep_handover\ITC-projects_subhadeep_handover\ITC\JUNE-2015\FO\Grand chola\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.pdb
+D:\adyar\Latest_projects\ITC-projects_subhadeep_handover\ITC-projects_subhadeep_handover\ITC\JUNE-2015\FO\Grand chola\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.xml
+D:\adyar\Latest_projects\ITC-projects_subhadeep_handover\ITC-projects_subhadeep_handover\ITC\JUNE-2015\FO\Grand chola\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ResolveAssemblyReference.cache
+D:\adyar\Latest_projects\ITC-projects_subhadeep_handover\ITC-projects_subhadeep_handover\ITC\JUNE-2015\FO\Grand chola\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.Resources.resources
+D:\adyar\Latest_projects\ITC-projects_subhadeep_handover\ITC-projects_subhadeep_handover\ITC\JUNE-2015\FO\Grand chola\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.vbproj.GenerateResource.Cache
+D:\adyar\Latest_projects\ITC-projects_subhadeep_handover\ITC-projects_subhadeep_handover\ITC\JUNE-2015\FO\Grand chola\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.dll
+D:\adyar\Latest_projects\ITC-projects_subhadeep_handover\ITC-projects_subhadeep_handover\ITC\JUNE-2015\FO\Grand chola\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.xml
+D:\adyar\Latest_projects\ITC-projects_subhadeep_handover\ITC-projects_subhadeep_handover\ITC\JUNE-2015\FO\Grand chola\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.pdb
+D:\adyar\Grand\WIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.dll
+D:\adyar\Grand\WIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.pdb
+D:\adyar\Grand\WIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.xml
+D:\adyar\Grand\WIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ResolveAssemblyReference.cache
+D:\adyar\Grand\WIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.Resources.resources
+D:\adyar\Grand\WIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.vbproj.GenerateResource.Cache
+D:\adyar\Grand\WIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.dll
+D:\adyar\Grand\WIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.xml
+D:\adyar\Grand\WIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.pdb
+E:\Grand\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.dll
+E:\Grand\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.pdb
+E:\Grand\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.xml
+E:\Grand\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ResolveAssemblyReference.cache
+E:\Grand\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.Resources.resources
+E:\Grand\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.vbproj.GenerateResource.Cache
+E:\Grand\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.dll
+E:\Grand\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.xml
+E:\Grand\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.pdb
+E:\Grand\CHOLA\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.dll
+E:\Grand\CHOLA\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.pdb
+E:\Grand\CHOLA\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.xml
+E:\Grand\CHOLA\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ResolveAssemblyReference.cache
+E:\Grand\CHOLA\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.Resources.resources
+E:\Grand\CHOLA\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.vbproj.GenerateResource.Cache
+E:\Grand\CHOLA\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.dll
+E:\Grand\CHOLA\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.xml
+E:\Grand\CHOLA\NewWIND\LAPTOP MAIN\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.pdb
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.dll
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.pdb
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\bin\ITCCORE.xml
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ResolveAssemblyReference.cache
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.Resources.resources
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.vbproj.GenerateResource.Cache
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.dll
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.xml
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\obj\Release\ITCCORE.pdb
+E:\Grand\CHOLA\DEC2016\LAPTOP MAIN\ITCUI\ITCCORE\bin\security.dll

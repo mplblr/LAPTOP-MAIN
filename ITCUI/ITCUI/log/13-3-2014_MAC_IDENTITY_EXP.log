@@ -1,0 +1,4 @@
+3/13/2014 12:57:01 PM--Error Message : Object reference not set to an instance of an object.
+------------------Error Source : ITCUI
+------------------Error StackTrace :    at ITCUI.Index.Page_Load(Object sender, EventArgs e) in K:\LATEST PROJECTS\ITC PROJECTS\FIAS\FIAS VERSION 1\APPLICATIONS\LAPTOP MAIN\ITCUI\ITCUI\Index.aspx.vb:line 95
+

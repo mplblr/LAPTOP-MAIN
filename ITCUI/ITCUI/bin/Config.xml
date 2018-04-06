@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+   	<node ID="Server" Value="192.168.0.201"></node>
+        <node ID="DomainName" Value="microsensesoftware.local"></node>
+         <node ID="LoginID" Value="IASDOMAIN"></node>
+          <node ID="LoginPassword" Value="Pp123456"></node>
+          <node ID="groups" Value="Inet User,RAS and IAS Servers"></node>
+	  <node ID="SqlConnection" connectionString="server=192.168.0.201;uid=windsoruser;pwd=Osg$116@18;database=ITCWITHACCCODE"></node>
+</configuration>
+
+
+
+
+
